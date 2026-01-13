@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Író neve – hivatalos weboldal</title>
+    <style>
+        /* Alapbeállítások */
+        body {
+            margin: 0;
+            font-family: "Georgia", serif;
+            background-color: #f5f2ee;
+            color: #2b2b2b;
+            line-height: 1.7;
+        }
+
+        header {
+            background-color: #1f1f1f;
+            color: #ffffff;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        header p {
+            font-style: italic;
+            opacity: 0.85;
+        }
+
+        nav {
+            background-color: #2a2a2a;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1rem;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        section {
+            margin-bottom: 60px;
+        }
+
+        h2 {
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+
+        .book {
+            margin-bottom: 25px;
+        }
+
+        footer {
+            background-color: #1f1f1f;
+            color: #ccc;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Oláh Angéla</h1>
+    <p>Regények, novellák, gondolatok</p>
+</header>
+
+<nav>
+    <a href="#rolam">Rólam</a>
+    <a href="#konyvek">Írásaim</a>
+    <a href="#blog">Blog</a>
+    <a href="#kapcsolat">Kapcsolat</a>
+</nav>
+
+<main>
+
+    <section id="rolam">
+        <h2>Rólam</h2>
+        <p>
+            Amikor éppen nem a regényemet írom át éppen sokadjára, pályázatokra küldök be rövidebb, hosszabb történeteket, ha a téma megfog. Próbálkozok angol nyelvű írásokkal is. 
+            Sci-fi és fantasy műfajokban érzem a legjobban magam, és kacsintgatok a mágikus realismus felé. 
+            Tizenéves koromban a családdal erdélyből költöztünk át, ami traumatizált, és leginkább ezt az élményt dolgozom fel az írással. Gyakori témám az új helyre érkezés, ahol alkalmazkodni kell, és hogy ez milyen hatással van a szereplőkre. 
+
+        </p>
+    </section>
+
+    <section id="konyvek">
+        <h2>Megjelent novelláim</h2>
+        <div class="book">
+            <strong>Marsbook kiadó</strong> (2024-től)<br>
+           <ul>
+           <li>A legjobb sci-fi antológia / Medúzák</li>
+<li>Ellenséged ellensége / A séta jótékony hatásai</li>
+<li>Prompt-Transhumán / Az üzenet</li>
+<li>Világvége 2.0 / A termálvíz nyugtatja az idegeket</li>
+<li>Valóságmodell / Repülő bárányok</li>
+           </ul>
+        </div>
+
+        <div class="book">
+            <strong>Nebula magazine</strong> (2025-től)<br>
+            Angol nyelvű írások
+            <ul>
+                <li>Rebirth, Renewal, and/or Rejuvenation / Mission in zone 17</li>
+                <li>Hard science / How Can We Use the Miniature Wormholes Around Us for Time Travel?</li>
+                <li>Alien Contact / Scepticism</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Gondolatok az írásról, részletek, jegyzetek.</p>
+    </section>
+
+    <section id="kapcsolat">
+        <h2>Kapcsolat</h2>
+        <p>Email: <a href="mailto:iro@email.hu">ajszulu@gmail.com</a></p>
+    </section>
+
+</main>
+
+<footer>
+    © 2026 Oláh Angéla – Minden jog fenntartva
+</footer>
+
+</body>
+</html>
