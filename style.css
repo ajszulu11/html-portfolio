@@ -2,8 +2,7 @@
         body {
             margin: 0;
             font-family: "Georgia", serif;
-            background-color: #2D2F32
-;
+            background-color: #2D2F32;
             color: #C2C5C9;
             line-height: 1.7;
         }
@@ -38,7 +37,7 @@
             font-size: 1rem;
         }
 
-        nav a:hover {
+        nav a: hover {
             text-decoration: underline;
            color: #A6A9AE
         }
