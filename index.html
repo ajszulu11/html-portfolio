@@ -1,91 +1,469 @@
 
 <!DOCTYPE html>
 <html lang="hu">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Oláh Angéla – hivatalos weboldal</title>
-    <link rel="stylesheet" href="./style.css" />
+
+    <title>Oláh Angéla – író</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Lato:wght@400;500;600;700&display=swap"
+        rel="stylesheet"
+    >
+
+    <!-- Saját CSS -->
+    <link rel="stylesheet" href="./style.css">
 </head>
+
+
 <body>
 
-<header>
-    <img src="./images/moa.png" alt="moa"width="200"></a>
-    <h1 id="mara">Oláh Angéla</h1>
-    <p>Regények, novellák, gondolatok</p>
-</header>
+    <!-- =====================================================
+         FEJLÉC
+         ===================================================== -->
 
-<nav>
-    <a href="#rolam">Rólam</a>
-    <a href="#konyvek">Írásaim</a>
-    <a href="#blog">Blog</a>
-    <a href="#kapcsolat">Kapcsolat</a>
-</nav>
+    <header>
 
-<main>
+        <div class="header-inner">
 
-    <section id="rolam">
-       
-        <h2>Rólam</h2>
-        <p>
-             Amikor éppen nem a regényemet írom át már sokadjára, pályázatokra küldök be rövidebb, hosszabb történeteket, ha a téma megfog. Próbálkozok angol nyelvű írásokkal is. 
-            Sci-fi és fantasy műfajokban érzem a legjobban magam, és kacsintgatok a mágikus realismus felé. 
-            Tizenéves koromban a családdal erdélyből költöztünk át, ami traumatizált, és leginkább ezt az élményt dolgozom fel az írással. Gyakori témám az új helyre érkezés, ahol alkalmazkodni kell, és hogy ez milyen hatással van a szereplőkre. Készülő regényem főhőse Tim, aki egy teleportáló berendezés őre, és nagy döntés előtt áll, hogy átlépjen egy új világba. 
-            Fun fact: Az agyam mindenfélét kitalál, hogy Timet még ott tartsam a kapu másik oldalán, és hogy ne haladjon. Ilyen ez a weboldal is, amit saját magam kódoltam.
-            Ha többször járnál erre, és azt látod, hogy változik, remélhetőleg szépül, és fejlődik, az azért van, mert haladok a leckékkel. 
-            Örülnék neki, ha a lap alján lévő elérhetőségen jeleznéd, ha valami nem jól működik, vagy csak üzennél nekem.
+            <div class="header-brand">
 
+                <img
+                    src="./images/moa.png"
+                    alt="Oláh Angéla"
+                    class="author-logo"
+                >
 
-        </p>
-    </section>
+                <div>
+                    <h1 class="site-title">Oláh Angéla</h1>
 
-    <section id="konyvek">
-        <h2>Megjelent novelláim</h2>
-        <div class="book">
-            <strong>Marsbook kiadó</strong> (2024-től)<br>
-<a href="https://www.marsbook.hu/index.php?post=szerzo_adatai&szerzo=olah_angela">Marsbook</a>
-           <ul>
-           <li>A legjobb sci-fi antológia / Medúzák</li>
-<li>Ellenséged ellensége / A séta jótékony hatásai</li>
-<li>Prompt-Transhumán / Az üzenet</li>
-<li>Világvége 2.0 / A termálvíz nyugtatja az idegeket</li>
-<li>Valóságmodell / Repülő bárányok</li>
-           </ul>
+                    <p class="site-subtitle">
+                        Regények, novellák, gondolatok
+                    </p>
+                </div>
+
+            </div>
+
         </div>
 
-        <div class="book">
-            <strong>Nebula magazine</strong> (2025-től)<br>
-            Angol nyelvű írások
+    </header>
+
+
+    <!-- =====================================================
+         NAVIGÁCIÓ
+         ===================================================== -->
+
+    <nav>
+
+        <div class="container">
+
             <ul>
-                <li>Rebirth, Renewal, and/or Rejuvenation / Mission in zone 17</li>
-                <a href="https://nebulascifymagazine.blogspot.com/p/ericas-tale-verdant-earth-by-mark-k.html
-">Rebirth</a>
-                <li>Hard science / How Can We Use the Miniature Wormholes Around Us for Time Travel?</li>
-                <a href="https://nebulascifymagazine.blogspot.com/p/nebula-magazine-continues-with-our-open.html">Hard science</a>
-                <li>Alien Contact / Scepticism</li>
-                <a href="https://nebulascifymagazine.blogspot.com/p/nebula-magazine-continues-its-writer.html">Alien</a>
+
+                <li>
+                    <a href="./index.html">Kezdőlap</a>
+                </li>
+
+                <li>
+                    <a href="#rolam">Rólam</a>
+                </li>
+
+                <li>
+                    <a href="#irasaim">Írásaim</a>
+                </li>
+
+                <li>
+                    <a href="./regeny.html">
+                        Az elveszett trónörökös
+                    </a>
+                </li>
+
+                <li>
+                    <a href="./blog.html">
+                        Írói napló
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#kapcsolat">Kapcsolat</a>
+                </li>
+
             </ul>
+
         </div>
-    </section>
 
-    <section id="blog">
-        <h2>Blog</h2>
-        <p>Gondolatok az írásról, részletek, jegyzetek.</p>
-        <a href="./public/filmkritika.html">Filmkritika</a>
-    </section>
+    </nav>
 
-    <section id="kapcsolat">
-        <h2>Kapcsolat</h2>
-        <p>Email: <a href="mailto:iro@email.hu">ajszulu@gmail.com</a></p>
-    </section>
 
-</main>
+    <main>
 
-<footer>
-   <p>© 2026 Oláh Angéla – Minden jog fenntartva</p>
-</footer>
+
+        <!-- =================================================
+             NYITÓRÉSZ
+             ================================================= -->
+
+        <section class="hero">
+
+            <div class="container">
+
+                <div class="hero-content">
+
+                    <h1>
+                        Történetek különös világokról
+                    </h1>
+
+                    <p class="lead">
+                        Regények, novellák és gondolatok az írásról.
+                    </p>
+
+                    <p class="hero-description">
+                        Oláh Angéla vagyok, író. Leginkább a fantasy és
+                        a sci-fi világai vonzanak, de igazából az érdekel,
+                        mi történik az emberrel, amikor valami ismeretlenbe
+                        kerül.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             RÓLAM
+             ================================================= -->
+
+        <section id="rolam" class="about">
+
+            <div class="container">
+
+                <div class="about-content">
+
+                    <div class="divider"></div>
+
+                    <h2>Rólam</h2>
+
+                    <p>
+                        Amikor éppen nem a regényemet írom át már sokadjára,
+                        pályázatokra küldök be rövidebb, hosszabb történeteket,
+                        ha a téma megfog. Próbálkozom angol nyelvű írásokkal is.
+                    </p>
+
+                    <p>
+                        Sci-fi és fantasy műfajokban érzem a legjobban magam,
+                        és kacsintgatok a mágikus realizmus felé.
+                    </p>
+
+                    <p>
+                        Tizenéves koromban a családdal Erdélyből költöztünk át,
+                        ami erősen meghatározta, hogyan gondolkodom az új helyekről,
+                        az alkalmazkodásról és az otthonkeresésről.
+                    </p>
+
+                    <p>
+                        Gyakori témám az új helyre érkezés, ahol alkalmazkodni kell,
+                        és az, hogy ez milyen hatással van a szereplőkre.
+                    </p>
+
+                    <p class="about-highlight">
+                        Talán ezért is érdekelnek annyira azok a történetek,
+                        amelyekben valaki egyik világból egy másikba kerül –
+                        és közben kénytelen újra kitalálni, hol is van a helye.
+                    </p>
+
+                    <p>
+                        Fun fact: az agyam mindenfélét kitalál, hogy a szereplőimet
+                        még egy darabig ott tartsa, ahol vannak, és ne haladjanak
+                        olyan gyorsan, mint szeretnének.
+                    </p>
+
+                    <p>
+                        Ilyen ez a weboldal is, amit saját magam kódoltam.
+                        Ha többször járnál erre, és azt látod, hogy változik,
+                        remélhetőleg szépül és fejlődik, az azért van,
+                        mert haladok a leckékkel.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             ÍRÁSAIM
+             ================================================= -->
+
+        <section id="irasaim" class="stories">
+
+            <div class="container">
+
+                <div class="divider"></div>
+
+                <h2>Megjelent írásaim</h2>
+
+                <div class="stories-grid">
+
+
+                    <!-- MARSBOOK -->
+
+                    <article class="story-card">
+
+                        <h3>Marsbook kiadó</h3>
+
+                        <p class="publication">
+                            2024-től
+                        </p>
+
+                        <p>
+                            Sci-fi és fantasztikus történetek
+                            különböző antológiákban.
+                        </p>
+
+                        <ul>
+
+                            <li>
+                                A legjobb sci-fi antológia /
+                                <strong>Medúzák</strong>
+                            </li>
+
+                            <li>
+                                Ellenséged ellensége /
+                                <strong>A séta jótékony hatásai</strong>
+                            </li>
+
+                            <li>
+                                Prompt-Transhumán /
+                                <strong>Az üzenet</strong>
+                            </li>
+
+                            <li>
+                                Világvége 2.0 /
+                                <strong>A termálvíz nyugtatja az idegeket</strong>
+                            </li>
+
+                            <li>
+                                Valóságmodell /
+                                <strong>Repülő bárányok</strong>
+                            </li>
+
+                        </ul>
+
+                        <a
+                            href="https://www.marsbook.hu/index.php?post=szerzo_adatai&szerzo=olah_angela"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Marsbook →
+                        </a>
+
+                    </article>
+
+
+                    <!-- NEBULA -->
+
+                    <article class="story-card">
+
+                        <h3>Nebula Magazine</h3>
+
+                        <p class="publication">
+                            2025-től · angol nyelvű írások
+                        </p>
+
+                        <ul>
+
+                            <li>
+                                Rebirth, Renewal, and/or Rejuvenation /
+                                <strong>Mission in Zone 17</strong>
+                            </li>
+
+                            <li>
+                                Hard Science /
+                                <strong>
+                                    How Can We Use the Miniature Wormholes
+                                    Around Us for Time Travel?
+                                </strong>
+                            </li>
+
+                            <li>
+                                Alien Contact /
+                                <strong>Scepticism</strong>
+                            </li>
+
+                        </ul>
+
+                        <a
+                            href="https://nebulascifymagazine.blogspot.com/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Nebula Magazine →
+                        </a>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             AZ ELVESZETT TRÓNÖRÖKÖS
+             ================================================= -->
+
+        <section class="novel">
+
+            <div class="container">
+
+                <div class="novel-content">
+
+                    <span class="novel-label">
+                        Első regény · jelenleg kiadói szerkesztés alatt
+                    </span>
+
+                    <h2 class="novel-title">
+                        Az elveszett trónörökös (munkacím)
+                    </h2>
+
+                    <p class="novel-description">
+                        Egy regény egy különös világról,
+                        az otthonkeresésről és arról,
+                        milyen döntéseket hozunk, amikor
+                        nincs visszaút.
+                    </p>
+
+                    <p>
+                        A regény jelenleg kiadói szerkesztés alatt áll.
+                        Ezen az oldalon később a regényről, a szereplőkről,
+                        a kulisszatitkokról és a megjelenéshez kapcsolódó
+                        hírekről is mesélek.
+                    </p>
+
+                    <a
+                        href="./regeny.html"
+                        class="button"
+                    >
+                        A regényről →
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             ÍRÓI NAPLÓ
+             ================================================= -->
+
+        <section class="blog">
+
+            <div class="container">
+
+                <div class="divider"></div>
+
+                <h2>Írói napló</h2>
+
+                <div class="blog-grid">
+
+                    <article class="blog-card">
+
+                        <p class="date">
+                            Írás · filmek · gondolatok
+                        </p>
+
+                        <h3>
+                            Gondolatok az írásról
+                        </h3>
+
+                        <p>
+                            Filmkritikák, írással kapcsolatos gondolatok,
+                            jegyzetek, részletek és mindenféle dolog,
+                            ami megállít egy pillanatra.
+                        </p>
+
+                        <a
+                            href="./blog.html"
+                            class="button"
+                        >
+                            Tovább az írói naplóhoz →
+                        </a>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             KAPCSOLAT
+             ================================================= -->
+
+        <section id="kapcsolat" class="contact">
+
+            <div class="container">
+
+                <div class="contact-content">
+
+                    <div class="divider"></div>
+
+                    <h2>Kapcsolat</h2>
+
+                    <p>
+                        Ha szeretnél írni nekem, itt megtalálsz:
+                    </p>
+
+                    <a
+                        class="contact-email"
+                        href="mailto:ajszulu@gmail.com"
+                    >
+                        ajszulu@gmail.com
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+    </main>
+
+
+    <!-- =====================================================
+         LÁBLÉC
+         ===================================================== -->
+
+    <footer>
+
+        <div class="footer-inner">
+
+            <p>
+                © 2026 Oláh Angéla – Minden jog fenntartva
+            </p>
+
+        </div>
+
+    </footer>
+
 
 </body>
+</html>
+
+
 
 
 
