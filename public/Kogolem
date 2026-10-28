@@ -464,4 +464,48 @@
 
 <p>Egyelőre azonban nem akartam tovább gondolkodni ezen, mert a boszorkányok viskója még messze volt, és nekem vissza kellett jutnom oda, mielőtt besötétedik.</p>
 
-       
+    
+        <!-- IDE JÖN A NOVELLA TÖBBI RÉSZE -->
+
+
+    </article>
+
+
+    <!-- VISSZALINK -->
+
+    <section class="novella-end">
+
+        <a href="../blog.html" class="button">
+    ← Vissza az írói naplóhoz
+</a>
+
+    </section>
+
+</main>
+
+
+<!-- =====================================================
+     LÁBLÉC
+     ===================================================== -->
+
+<footer>
+
+    <div class="footer-inner">
+
+        <p>
+            © 2026 Oláh Angéla
+        </p>
+
+        <p>
+            <a href="../index.html">
+                Vissza a főoldalra
+            </a>
+        </p>
+
+    </div>
+
+</footer>
+
+
+</body>
+</html>   
