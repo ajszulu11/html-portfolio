@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Petibone bemutatkozik – Oláh Angéla</title>
+
+    <link rel="stylesheet" href="../style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Lato:wght@400;700&display=swap"
+        rel="stylesheet"
+    >
+</head>
+
+<body>
+
+<!-- =====================================================
+     FEJLÉC
+     ===================================================== -->
+
+<header>
+
+    <div class="header-inner">
+
+        <div class="header-brand">
+
+        </div>
+
+ <nav>
+            <a href="../index.html">Kezdőlap</a>
+            <a href="../index.html#rolam">Rólam</a>
+            <a href="../index.html#konyvek">Írásaim</a>
+            <a href="../regeny.html">A regény</a>
+            <a href="../blog.html">Írói napló</a>
+            <a href="../index.html#kapcsolat">Kapcsolat</a>
+        </nav>
+
+    </div>
+
+</header>
+
+
+<!-- =====================================================
+     FŐ TARTALOM
+     ===================================================== -->
+
+<main>
+
+    <!-- NOVELLA FEJLÉC -->
+
+    <section class="novella-hero">
+
+        <div class="novella-label">
+           <h3>BLOGNOVELLA</h3> 
+        </div>
+
+        <h1>
+            Kőgólem
+        </h1>
+
+       
+
+        <div class="novella-date">
+            2026. október
+        </div>
+
+    </section>
+
+
+    <!-- NOVELLA SZÖVEGE -->
+
+    <article class="novella-content">
+        <!-- A novella teljes szövege; illeszd az article.novella-content elembe. -->
+
+<p>Ez egy teljesen más érzés volt, mint amire számítottam. Ugyanaz a megmagyarázhatatlan lehangoltság fogott el, mint amikor azok a furcsa álmaim szoktak lenni, csakhogy most egyáltalán nem emlékeztem arra, mit álmodtam. Pedig biztos voltam benne, hogy történt valami, amire emlékeznem kellene. Egy fontos gondolat ott bujkált valahol a fejemben, de valahányszor megpróbáltam megragadni, egyre távolabb került tőlem. Hiába törtem a fejem, még az álom egyetlen apró részletét sem sikerült felidéznem, csak azt a nyomasztó érzést, amit maga után hagyott.</p>
+
+<p>Egyelőre nem akartam kinyitni a szemem. Jólesett mozdulatlanul feküdni, és különben is, még mindig álmos voltam. Vagy inkább fáradt? Nem ugyanaz a kettő, bár abban a pillanatban nem sok kedvem volt eldönteni, melyiket érzem. Legszívesebben visszaaludtam volna, hátha akkor eszembe jut, mit álmodtam, de valami azt súgta, hogy jobb lenne, ha nem próbálkoznék vele.</p>
+
+<p>Inkább oldalra fordultam, és megpróbáltam még jobban belevackolni magam a takaróba. A kezem azonban hiába tapogatózott, nem találtam semmit, amivel betakarózhattam volna. Csak valami durva, szúrós anyagot éreztem magam alatt, ami egyáltalán nem hasonlított az ágyamra. Megmozdítottam a lábamat, hátha a takaró lecsúszott rólam, de ott sem volt. Ráadásul egyre jobban éreztem a hideget, amely lassan átszivárgott a ruhámon.</p>
+
+<p>Ez már kezdett gyanússá válni, mert határozottan emlékeztem rá, hogy amikor legutóbb lefeküdtem, sokkal kényelmesebb helyen voltam. Azt viszont sehogy sem tudtam felidézni, mikor és hol történt ez.</p>
+
+<p>Miközben ezen töprengtem, valaki óvatosan megérintette a vállamat. Nem volt erős érintés, inkább olyan, amivel az embert fel akarják ébreszteni anélkül, hogy megijesztenék, én mégis összerezzentem tőle.</p>
+
+<p>– Ébredezik! – hallottam egy rekedtes hangot egészen közelről.</p>
+
+<p>– Még sohasem láttam senkit, aki elaludt teleportálás közben – válaszolta egy másik hang, amely valamivel magasabban csengett. – Furcsa szerzet.</p>
+
+<p>– Én meg azt mondom, hogy most már beszélhetnél Maxvellel, hogy ne használja folyton a házunkat teleportálós végpontnak! – csattant fel az első hang valahonnan távolabbról.</p>
+
+<p><em>Teleportálás?</em></p>
+
+<p>A szó hallatán hirtelen eszembe jutott az öreg varázsló, Maxvell, meg az a bosszantó üzenet, amit annyiszor el kellett ismételnem előtte, hogy a végén már azt hittem, soha többé nem fogom tudni kiverni a fejemből. Valahányszor hibátlanul elmondtam, újra megkért, hogy ismételjem meg, mert szerinte egy ilyen fontos megbízásnál nem lehet elég óvatos az ember. Én persze biztosítottam róla, hogy a memóriámmal semmi baj, de úgy látszott, ez nem nyugtatta meg kellően.</p>
+
+<p>Most azonban, amikor megpróbáltam felidézni az üzenetet, egyetlen szó sem jutott eszembe belőle. Ez különösen bosszantott, hiszen korábban még azzal is dicsekedtem, hogy akár álmomból felébresztve is hibátlanul el tudnám mondani. Ha jobban belegondolok, most éppen álmomból ébresztettek fel, és úgy látszik, mégsem volt igazam.</p>
+
+<p>Lassan kinyitottam a szemem, bár a homályos körvonalakból eleinte nem sok mindent tudtam kivenni. Két alak hajolt fölém, és olyan figyelmesen vizsgáltak, mintha valami különösen érdekes dolgot találtak volna.</p>
+
+<p>Ahogy a szemem hozzászokott a félhomályhoz, láttam, hogy két öregasszony áll mellettem. Legalábbis az egyik biztosan öreg volt, mert az arcát mély ráncok barázdálták, a másikról viszont nehéz lett volna megállapítani, hány éves lehet, mivel a hatalmas, lila keretes szemüvege szinte teljesen eltakarta az arcát. Mindketten sötét, enyhén csillogó szövetből készült ruhát viseltek, amelynek redői meg-megcsillantak a tűz fényében.</p>
+
+<p>Az egyikük nyakában csontból faragott nyaklánc lógott, amelyen különféle apró jeleket véltem felfedezni. A másik hajába szárított növényeket fontak, és egy hosszú fakanalat szorongatott, mintha csak egy pillanatra szakította volna félbe a főzést, hogy megnézze, mi történik velem.</p>
+
+<p>Nem tudom, miért, de ettől a fakanáltól tartottam a legjobban.</p>
+
+<p>– No, végre! – mondta a csontnyakláncos, és még közelebb hajolt hozzám. – Hát csak felébredtél!</p>
+
+<p>– Jó reggelt! – feleltem udvariasan, bár fogalmam sem volt, reggel van-e, és abban sem voltam egészen biztos, hogy egyáltalán mennyi idő telt el azóta, hogy utoljára ébren voltam.</p>
+
+<p>Óvatosan felültem, mert a fejem még mindig kissé nehéznek érződött, és körülnéztem, hogy megtudjam, hová kerültem.</p>
+
+<p>Egy keskeny, szalmával tömött fekhelyen ültem, amelyet vastag, durva szövésű vászonnal takartak le. A szoba aprócska volt, a falakat vastag, görbe gerendák tartották, amelyek között itt-ott mohával tömték ki a réseket. A mennyezetről szárított füvek, gyökerek és kisebb növénycsokrok lógtak, némelyik olyan alacsonyan, hogy egy magasabb embernek bizonyára le kellett volna hajtania a fejét, ha el akart menni alattuk.</p>
+
+<p>A sarokban egy hatalmas üst rotyogott a tűz fölött, és olyan szagot árasztott, mintha valaki egyszerre próbálna káposztalevest és gyógyteát főzni. A gőz lassan felszállt a mennyezetig, majd szétterült a gerendák között, és időnként egészen az arcomig sodródott.</p>
+
+<p>A falak mentén keskeny polcok sorakoztak, rajtuk mindenféle méretű és alakú üvegekkel. Némelyikben színes folyadék állt, másokban szárított leveleket, magvakat és olyan dolgokat láttam, amelyekről inkább nem akartam megtudni, micsodák. Az egyik polcon régi könyvek hevertek egymásra rakva, mellettük egy összetekert pergamen és néhány gyertya állt.</p>
+
+<p>Az egyetlen ablakon keresztül sűrű erdőt láttam. A fák olyan közel álltak egymáshoz, hogy alig szűrődött át közöttük a fény, és a levelek lassú mozgásából arra következtettem, hogy odakint enyhe szél fújhat. A viskó belsejében azonban nem lehetett érezni a levegő mozgását, csak a tűz pattogása és az üst egyenletes rotyogása hallatszott.</p>
+
+<p>A lábamnál ott hevert a hátizsákom, és ettől megnyugodtam. Gyorsan magamhoz húztam, majd ellenőriztem, hogy minden megvan-e benne, mert egy ilyen különös utazás után nem szerettem volna azzal szembesülni, hogy elveszítettem valamelyik holmimat. A kalapom szerencsére a fejemen maradt, bár félrecsúszott, ezért gondosan megigazítottam, mielőtt ismét az asszonyokra néztem volna.</p>
+
+<p>– Hol vagyok? – kérdeztem, mert úgy gondoltam, ezt volna a legfontosabb tisztázni.</p>
+
+<p>A két öregasszony összenézett, láthatóan meglepte őket a kérdésem.</p>
+
+<p>– Nálunk – felelte a fakanalas.</p>
+
+<p>– Azt látom – mondtam, miközben még egyszer körbepillantottam a szobában. – De hol van az a nálunk?</p>
+
+<p>– Az erdőben.</p>
+
+<p>Ez igazán sokat segített, hiszen az ablakon keresztül magam is láttam a fákat, de ettől még nem lettem okosabb.</p>
+
+<p>– Melyik erdőben? – próbálkoztam újra, hátha most sikerül pontosabb választ kapnom.</p>
+
+<p>– A miénkben – felelte a csontnyakláncos, és olyan elégedetten elmosolyodott, mintha ezzel mindent megmagyarázott volna.</p>
+
+<p>Kezdtem úgy érezni, hogy ez hosszú beszélgetés lesz, és nem voltam biztos benne, hogy a végére többet fogok tudni, mint az elején.</p>
+
+<p>Ekkor azonban eszembe jutott, miért is kerültem ide. Maxvell, az öreg varázsló egy fontos küldetéssel bízott meg, és nekem egy üzenetet kellett kézbesítenem. Ha valóban sikerült a teleportálás, akkor valószínűleg már közel járhattam a célomhoz, bár a jelenlegi helyzetemből ezt nehéz volt megállapítani.</p>
+
+<p>– Elnézést, hölgyeim, de nekem sürgősen mennem kell – jelentettem ki, és igyekeztem olyan határozottan beszélni, ahogyan egy királyi hírnökhöz illik. – Egy nagyon fontos üzenetet kell kézbesítenem, és nem szeretnék késlekedni.</p>
+
+<p>Felálltam, a hátamra vettem a zsákomat, majd körülnéztem, merre lehet az ajtó. A szobában annyi polc, függő növénycsokor és mindenféle holmi volt, hogy első pillantásra nem is láttam a kijáratot.</p>
+
+<p>– Hová ilyen sietősen? – kérdezte a csontnyakláncos, aki a kettő közül idősebbnek látszott.</p>
+
+<p>– Hát… – kezdtem, de aztán elhallgattam, mert rájöttem, hogy erre nem is olyan egyszerű válaszolni.</p>
+
+<p>A varázsló azt mondta, hogy nagyon távoli vidékre küld, sokkal messzebbre, mint ahol eddig valaha jártam. Azt is elmagyarázta, hogy a teleportáló pontosan oda juttat, ahol lennem kell, és nekem már csak meg kell keresnem a címzettet. Arról viszont egyetlen szót sem szólt, hogy két boszorkány házában fogok felébredni, és előbb azt kell kiderítenem, egyáltalán hol vagyok.</p>
+
+<p>Mert most már egészen biztos voltam benne, hogy boszorkányokkal van dolgom. Az üst, a szárított békák az ajtó fölött, a különös üvegek és a mennyezetről lógó növények mind erre utaltak. És különben is, ki más lakna egy ilyen viskóban az erdő közepén?</p>
+
+<p>– Egy üzenetet hoztam – jelentettem ki végül, miután úgy döntöttem, hogy egyelőre nem foglalkozom azzal, pontosan melyik erdőben vagyok. – Egy kőgólemnek kell átadnom.</p>
+
+<p>A két boszorkány erre egyszerre elhallgatott, és a korábbi kíváncsiság helyét valami egészen más vette át az arcukon. A fakanalas lassan letette a kanalát az üst mellé, a csontnyakláncos pedig összefonta maga előtt a karját.</p>
+
+<p>– Nocsak, akkor ez komoly ügy lesz! – jelentette ki a fakanalas, miközben a társára pillantott.</p>
+
+<p>– Ó! – mondta a másik gondterhelten.</p>
+
+<p>– Ó? – ismételtem utána, mert nem értettem, miért váltott ki belőlük ekkora meglepetést egy egyszerű üzenet kézbesítése.</p>
+
+<p>– Ó, hogy az a… – kezdte a fakanalas, de a másik oldalba bökte, mire félbeszakította a mondatot.</p>
+
+<p>– És biztosan azt mondta Maxvell, hogy meg kell zavarnod a gólemet? – kérdezte a csontnyakláncos, és olyan figyelmesen nézett rám, mintha a válaszom különösen fontos volna.</p>
+
+<p>Értetlenül néztem rá, mert a varázsló ilyesmit egyáltalán nem említett, és azt sem tudtam, miért volna olyan nagy baj, ha valaki beszélni akar egy kőgólemmel.</p>
+
+<p>– Nem mondott ilyesmit. Csak azt, hogy adjam át az üzenetet, és ügyeljek rá, hogy pontosan úgy mondjam el, ahogyan megtanította.</p>
+
+<p>– Hát, reméljük, tudja, mit csinál – morogta a boszorkány, majd egy pillanatnyi hallgatás után hozzátette: – És mit üzent?</p>
+
+<p>Kihúztam magam, mert végre úgy éreztem, hogy valaki megértette, miért vagyok itt, és talán segíteni is tud a küldetésem teljesítésében.</p>
+
+<p>– Azt sajnos nem tudom – feleltem.</p>
+
+<p>Mindkét boszorkány rám meredt, és a fakanalas még a fejét is kissé oldalra billentette, mintha nem volna biztos benne, hogy jól hallotta a válaszomat.</p>
+
+<p>– Nem tudod? – kérdezte hitetlenkedve.</p>
+
+<p>– Nem. Vagyis tudom, csak nem értem, és ez két különböző dolog – magyaráztam. – A varázsló azt mondta, hogy szó szerint kell átadnom, és semmit sem változtathatok rajta. Azt viszont nem tartotta szükségesnek elmagyarázni, hogy pontosan mit jelentenek a szavai.</p>
+
+<p>– Akkor mondd! – sürgetett a fakanalas, aki láthatóan egyre kíváncsibb lett.</p>
+
+<p>Már éppen belekezdtem volna az üzenetbe, amikor rájöttem, hogy valami nagyon nincs rendben. Az a szöveg, amelyet Maxvell olyan sokszor elismételtetett velem, most egyáltalán nem jutott eszembe, pedig korábban még arra is emlékeztem, hol tartottam, ha az öreg a mondat közepén félbeszakított.</p>
+
+<p>Megpróbáltam felidézni az első szót, majd amikor ez nem sikerült, a következőt kerestem az emlékezetemben. Arra gondoltam, hogy ha legalább egyetlen mondatrészlet eszembe jutna, abból talán a többit is elő tudnám hívni, de minél erősebben próbálkoztam, annál inkább úgy éreztem, hogy valami elzárja előlem a saját emlékeimet.</p>
+
+<p>Ez még soha nem fordult elő velem, és annyira szokatlan volt, hogy egy pillanatra a boszorkányokról is megfeledkeztem.</p>
+
+<p>Én, Petibone, a királyi udvar kiemelt hírnöke, aki egy egész oldalnyi idegen nyelvű szöveget is képes hibátlanul megjegyezni, most két boszorkány előtt álltam, és fogalmam sem volt, mit kellene mondanom. A memóriámra mindig büszke voltam, hiszen éppen ennek köszönhettem, hogy olyan megbízásokat is rám bíztak, amelyeknél egyetlen szó eltévesztése is komoly bajt okozhatott.</p>
+
+<p>– Egy pillanat – mondtam, és felemeltem az ujjam, hogy jelezzem, még nem fejeztem be. – Mindjárt eszembe jut, csak egy kis türelmet kérek.</p>
+
+<p>A boszorkányok eleinte türelmesen vártak, bár a fakanalas egy idő után a társa felé fordult, mintha mondani akarna valamit. Végül csak felsóhajtott, és visszanézett rám.</p>
+
+<p>Lassan leengedtem a kezem, mert beláttam, hogy hiába erőltetem, egyelőre semmire sem fogok jutni. Csodálkoztam magamon, hiszen ilyesmi még soha nem történt velem. Az a különös álom, amelyre ébredéskor sem emlékeztem, teljesen összezavarta a memóriámat. Olyan érzésem volt, mintha egy fátyol ereszkedett volna a gondolataimra, és bár tudtam, hogy mögötte ott rejtőzik mindaz, amit keresek, sehogy sem sikerült átlátnom rajta.</p>
+
+<p>Az álom nyomasztó érzése is újra előjött, és egy pillanatra attól tartottam, hogy nemcsak az üzenetet felejtettem el, hanem valami mást is, ami talán még fontosabb volna. De minél tovább gondolkodtam ezen, annál kellemetlenebbül éreztem magam a két várakozó boszorkány előtt.</p>
+
+<p>– Már emlékszem, csakis a kőgólemnek adhatom át az üzenetet! – nyögtem ki végül, mert szerettem volna mielőbb szabadulni ebből a helyzetből.</p>
+
+<p>Azt természetesen nem árultam el nekik, hogy a hallgatásomnak más oka is van. Maxvell valóban arra utasított, hogy az üzenetet a címzettnek adjam át, ezért úgy gondoltam, ezzel a magyarázattal legalább nem mondok teljes valótlanságot.</p>
+
+<p>A csontnyakláncos még egy darabig vizsgálódva nézett rám, mintha nem volna egészen meggyőződve a szavaim hitelességéről, aztán a kijárat felé intett. A fakanalas közben visszament az üsthöz, hogy megkeverje a benne rotyogó főzetet, én pedig megkönnyebbülten követtem őket az ajtóhoz.</p>
+
+<p>Végre kiértem a szabadba, és jólesett magam mögött hagyni a viskó nehéz, főzetektől és szárított növényektől terhes levegőjét. A két boszorkány kikísért a ház elé, ahol keskeny, alig kitaposott ösvény vezetett a fák közé.</p>
+
+<p>Körülöttünk hatalmas fák magasodtak, a lombjuk olyan sűrű volt, hogy alig látszott az ég. A levegőben nedves avar és moha illata terjengett, valahonnan messziről harkály kopácsolása hallatszott. A viskó körül a földet gyökerek hálózták be, és a fák törzsén vastag moharéteg kapaszkodott, amelyből apró páfrányok hajtottak ki.</p>
+
+<p>Egy pillanatra megálltam, hogy jobban szemügyre vegyem a környéket. Szerettem az erdőket, és ha nem sürgetett volna a megbízásom, szívesen körülnéztem volna alaposabban is. Most azonban elsősorban az érdekelt, hogyan találhatom meg a kőgólemet, és reméltem, hogy mire odaérek, az üzenet is eszembe jut.</p>
+
+<p>– Kövesd az ösvényt, amíg el nem érsz a patakhoz – magyarázta a csontnyakláncos boszorkány, és a fák között kanyargó keskeny útra mutatott. – Ott fordulj északnak, aztán haladj tovább a víz mentén. A nagy tisztáson megtalálod, akit keresel.</p>
+
+<p>– És biztosan ott lesz? Mármint a tisztáson él? – kérdeztem, mert ennél különösebb útbaigazítást még nem hallottam, és szerettem volna biztosra menni, mielőtt nekivágok az ismeretlen erdőnek.</p>
+
+<p>– Aha, ott! – felelte a fakanalas, mintha a válasz magától értetődő volna.</p>
+
+<p>A másik is jelentőségteljesen bólogatott, én azonban még mindig nem voltam teljesen nyugodt, mert egy kőgólemről nem tudtam elképzelni, hogyan töltheti a napjait egy erdei tisztáson.</p>
+
+<p>– És honnan fogom tudni, hogy ő az a kőgólem, akit keresek? – kérdeztem, mert Maxvell nem adott róla különösebb személyleírást.</p>
+
+<p>– Onnan, hogy nem találsz ott másikat – felelte a csontnyakláncos.</p>
+
+<p>Erre már nem tudtam mit mondani, mert végül is igaza lehetett, és nem láttam értelmét tovább faggatni őket.</p>
+
+<p>Megigazítottam a hátizsákomat, ellenőriztem, hogy a kalapom rendesen áll-e, aztán elköszöntem, és elindultam az ösvényen. Alig tettem meg néhány lépést, amikor a csontnyakláncos boszorkány utánam kiáltott:</p>
+
+<p>– És ne térj le az ösvényről!</p>
+
+<p>Megálltam, és visszafordultam, mert a hangjából úgy éreztem, talán valami fontosat felejtett el közölni velem.</p>
+
+<p>– Miért? – kérdeztem.</p>
+
+<p>– Mert akkor eltévedsz!</p>
+
+<p>Ezt magamtól is kitaláltam volna, de azért udvariasan bólintottam, és folytattam az utamat a fák között. Ahogy a viskó lassan eltűnt mögöttem, ismét megpróbáltam felidézni Maxvell üzenetét, ám a szavak továbbra sem akartak előbújni az emlékezetemből.</p>
+
+<p>Abban reménykedtem, hogy mire megtalálom a kőgólemet, ez a különös zavar is elmúlik, mert egy hírnök számára kevés kellemetlenebb dolog történhet annál, mint hogy végre eljut a címzetthez, de nem tudja átadni, amiért odaküldték.</p>
+
+<p>Az ösvény keskeny volt, helyenként vastag gyökerek keresztezték, másutt puha moha borította, amely szinte teljesen elnyelte a lépteim zaját. A fák olyan sűrűn álltak egymás mellett, hogy néhol csak oldalazva tudtam elhaladni a törzsük között, és időnként le kellett hajolnom egy-egy alacsonyan húzódó ág alatt. Egész kellemes séta lett volna, ha nem motoszkál bennem folyton az a gondolat, hogy valami nincs rendben ezzel a küldetéssel.</p>
+
+<p>Először is Maxvell egyetlen szóval sem említette, hogy boszorkányokkal fogok találkozni. Igaz, azt sem mondta, hogy nem, de azért mégiscsak furcsának találtam, hogy a teleportálás egy erdei viskóba juttatott, ahol két idegen asszony várta az érkezésemet. Ráadásul a boszorkányok sem látszottak különösebben meglepettnek azon, hogy a varázsló az ő házukat használta érkezési pontként, bár a beszélgetésükből úgy vettem ki, hogy ennek egyáltalán nem örülnek.</p>
+
+<p>Ahogy haladtam az ösvényen, újra megpróbáltam felidézni az üzenetet. A szavak továbbra sem akartak eszembe jutni, de mintha valami lassan mégis megmozdult volna az emlékezetemben. Először csak egy hely neve derengett fel, amelyet Maxvell többször is megismételt, amikor az üzenetet tanította nekem. A Vakmerőség tornya volt az, ebben egészen biztos voltam, bár arra már nem emlékeztem, pontosan milyen összefüggésben szerepelt a szövegben.</p>
+
+<p>A torony nevével együtt azonban valami más is eszembe jutott, és egy pillanatra megtorpantam az ösvény közepén. Mintha láttam volna már azt a tornyot, pedig tudtommal soha nem jártam a környékén. Egy magas, komor épület képe derengett fel előttem, amelynek kövei között sötét árnyékok húzódtak, és valamiért az volt az érzésem, hogy egyszer már álltam előtte. Aztán rájöttem, hogy talán az álmomban láthattam, amelyre ébredés óta hiába próbáltam visszaemlékezni.</p>
+
+<p>Szerettem volna többet felidézni belőle, de a kép éppen olyan gyorsan elhalványult, ahogyan megjelent. Egy ideig még azon gondolkodtam, miért éppen a torony jutott eszembe, aztán folytattam az utamat, mert a küldetésem szempontjából egyelőre fontosabbnak tűnt, hogy megtaláljam a kőgólemet.</p>
+
+<p>A patakot hamar megtaláltam, és megkönnyebbültem, amikor meghallottam a kövek között csörgedező víz hangját. A medre nem volt széles, de a víz gyorsan folyt benne, helyenként apró örvényeket vetve a nagyobb kövek körül. A partján páfrányok és sűrű bokrok nőttek, a nedves földön pedig különféle állatok nyomait véltem felfedezni, bár nem álltam meg, hogy alaposabban megvizsgáljam őket.</p>
+
+<p>Észak felé indultam a patak mentén, ahogyan a boszorkányok tanácsolták, és igyekeztem a víz közelében maradni, nehogy véletlenül rossz irányba forduljak. A fák között időnként madarak röppentek fel, a bokrok alól apró neszek hallatszottak, és egyszer egy mókust is láttam, amint felkapaszkodott egy vastag törzsön.</p>
+
+<p>Egy idő után azonban feltűnt, hogy az erdő lassan elcsendesedik körülöttem. Először csak a madárcsicsergés maradt el, aztán a bokrok közül sem hallottam többé semmiféle mozgást, és még a szél is mintha elállt volna. A levelek mozdulatlanul függtek az ágakon, és a patak csobogása egyre távolabbról hallatszott, ahogy az ösvény lassan eltávolodott a partjától.</p>
+
+<p>Nem tudtam, mi okozza ezt a különös csendet, de önkéntelenül is lassítottam a lépteimen. A boszorkányok azt mondták, hogy a nagy tisztáson megtalálom a gólemet, és kezdtem sejteni, hogy már nem lehetek messze tőle.</p>
+
+<p>Amikor a fák végre ritkulni kezdtek, egy széles, füves tisztás tárult elém, amelynek közepén hatalmas szikla magasodott. Legalább háromszor akkora lehetett, mint én, és első pillantásra nem is tűnt különösebben érdekesnek, bár az alakja szokatlan volt. Aztán, ahogy közelebb léptem, és jobban szemügyre vettem, észrevettem, hogy a sziklának két karja és két lába van, a tetején pedig egy fejhez hasonló kőtömb ül.</p>
+
+<p>– Ó! – mondtam halkan, mert egyáltalán nem erre számítottam.</p>
+
+<p>A szikla azonban nem válaszolt, és olyan mozdulatlanul állt a tisztás közepén, mintha mindig is ott lett volna.</p>
+
+<p>Óvatosan közelebb merészkedtem, miközben igyekeztem minden részletét megfigyelni. A teste hatalmas, egymásra illeszkedő kőtömbökből állt, amelyek között mély repedések húzódtak, és néhol apró növények kapaszkodtak meg bennük. A vállát vastag moharéteg borította, a karján páfrányok nőttek, az egyik térdén pedig egy apró, sárga virág hajtott ki a kövek közül.</p>
+
+<p>Ez különösen megtetszett, mert a hatalmas, durva kőtömbök között olyan törékenynek látszott az a kis virág, hogy önkéntelenül is elmosolyodtam.</p>
+
+<p>Aztán, ahogy tovább néztem, hirtelen valami megváltozott bennem. A virág alakja és színe ismerősnek tűnt, és mielőtt még végiggondolhattam volna, honnan, az álom emléke egyszerre olyan élesen jelent meg előttem, mintha nem is álmodtam volna, hanem valóban átéltem volna mindazt, ami történt.</p>
+
+<p>A Vakmerőség tornya előtt álltam, és a város felé szerettem volna továbbmenni, de egy hatalmas szikla elzárta az utamat. Az álomban eleinte nem tudtam, hogy a szikla valójában egy kőgólem, csak azt láttam, hogy olyan nagy, hogy nem tudok elhaladni mellette. Egy ideig tanácstalanul néztem, és azon gondolkodtam, hogyan kerülhetném meg, amikor észrevettem valamit a földön.</p>
+
+<p>Egy elf lány feküdt nem messze tőlem, olyan mozdulatlanul, hogy először azt hittem, csak elájult. Amikor azonban közelebb mentem hozzá, megláttam a ruháján és a földön a vért, és azt is észrevettem, hogy több szúrt seb van a testén. A haja szétterült a földön, és a tincsei közé egy apró, sárga virágot tűztek, pontosan olyat, amilyen most a gólem térdén nőtt.</p>
+
+<p>Az álomban is különösnek találtam, hogy a virág még mindig ott volt a hajában, miközben a lány ruhája és a körülötte lévő föld véres volt. A sebekből arra következtettem, hogy nem a gólem végzett vele, hiszen az a hatalmas kőlény aligha ejthetett volna ilyen sérüléseket.</p>
+
+<p>Ahogy az arcát néztem, hirtelen az az érzésem támadt, hogy a lány ki fogja nyitni a szemét. Tudtam, hogy ez lehetetlen, mégis vártam, és egy pillanattal később valóban úgy láttam, mintha megmozdulna a szemhéja. Aztán olyan halkan szólalt meg, hogy alig értettem, mit mond.</p>
+
+<p>– A barlang…</p>
+
+<p>Nem tudtam eldönteni, hogy valóban hallottam-e a hangját, vagy csak képzeltem az egészet, mert az álomban minden olyan bizonytalan volt. A lány nem mondott többet, én pedig ott álltam mellette, és hiába próbáltam megérteni, mire gondolhatott.</p>
+
+<p>Most, a tisztáson állva megborzongtam az emléktől. Az álom olyan elevenen tért vissza, hogy egy pillanatig még a véres ruhát és a lány sápadt arcát is magam előtt láttam. Jobb lett volna, ha egyáltalán nem jut eszembe, mert már megint azon kellett törnöm a fejem, vajon mit jelenthet, és miért álmodtam éppen erről a helyről.</p>
+
+<p>A barlang. Ezt mondta a lány, de fogalmam sem volt, miért. Talán oda szeretett volna eljutni, és azért halt meg, mert a gólem elállta az útját a toronynál. Az is lehetett, hogy valakit a barlanghoz akart küldeni, vagy éppen arra próbált figyelmeztetni, hogy ott valami veszély leselkedik rá.</p>
+
+<p>Akárhogyan gondolkodtam, nem tudtam biztos választ találni, de egy dolog egyre nyugtalanítóbbnak tűnt. Ha a gólem valóban a Vakmerőség tornyánál lesz, ahogyan az álmomban láttam, akkor az elf lány is ott fog feküdni a földön, és én már most tudok róla, hogy ez megtörténhet.</p>
+
+<p>Nem akartam, hogy így legyen, bár azt sem tudtam, képes lennék-e bármit tenni ellene. Egyelőre igyekeztem elhessegetni magamtól a gondolatot, mert a küldetésem még hátravolt, és előbb azt kellett kiderítenem, hogy a mozdulatlan kőalak valóban az-e, akit keresek.</p>
+
+<p>– Jó napot kívánok! – szólítottam meg udvariasan, miközben néhány lépéssel közelebb mentem hozzá.</p>
+
+<p>A kőgólem azonban meg sem mozdult, és ha nem lett volna olyan feltűnően emberhez hasonló alakja, akár közönséges sziklának is nézhettem volna.</p>
+
+<p>– Elnézést, ön a kőgólem? – kérdeztem valamivel hangosabban, hátha az előbb egyszerűen nem hallott meg.</p>
+
+<p>A szikla továbbra sem mozdult, én pedig kezdtem gyanítani, hogy a boszorkányok talán tréfát űztek velem, amikor ideküldtek. Megkerültem a hatalmas alakot, és alaposan szemügyre vettem minden oldalról, hátha találok rajta valamit, ami arra utal, hogy valóban él. A kövek között azonban csak mohát, apró növényeket és mély repedéseket láttam, amelyekből semmi sem árulta el, hogy a gólem képes volna mozogni vagy beszélni.</p>
+
+<p>Végül visszaálltam elé, mert nem szerettem volna az egész napomat azzal tölteni, hogy egy mozdulatlan sziklát vizsgálgatok.</p>
+
+<p>– Nézze, nekem nincs időm egész nap itt ácsorogni – mondtam, és igyekeztem türelmes maradni. – Egy fontos üzenetet hoztam Maxvelltől, és azt mondták, önnek kell átadnom.</p>
+
+<p>Alighogy kimondtam a varázsló nevét, valami mély, nyikorgó hang hallatszott a kőalak belsejéből. Olyan volt, mintha két hatalmas malomkövet dörzsölnének egymáshoz, és a hang lassan végigterjedt a gólem egész testén.</p>
+
+<p>A feje ekkor megmozdult, először alig észrevehetően, majd lassan felém fordult, miközben a nyakánál lévő kövek egymáshoz súrlódtak. A két mélyedésben, ahol a szemének kellett lennie, halvány, borostyánszínű fény gyúlt, és ettől hirtelen egészen másnak látszott, mint az előbb.</p>
+
+<p>– Üzenet? – kérdezte olyan mély hangon, hogy még a talpam alatt is megremegett a föld.</p>
+
+<p>Annyira váratlanul ért, hogy hátraugrottam, és majdnem elestem egy kiálló gyökérben, de szerencsére sikerült megtartanom az egyensúlyomat.</p>
+
+<p>– Igen! – feleltem gyorsan, miután kissé összeszedtem magam. – Pontosan, üzenetet hoztam, mert én vagyok a hírnök, akit Maxvell küldött önhöz.</p>
+
+<p>A gólem lassan lehajolt, és olyan közel került hozzám az arca, hogy láthattam a repedéseiben megbújó apró kavicsokat és a kövek egyenetlen felszínét. Egy pillanatra arra gondoltam, hogy ha véletlenül elveszíti az egyensúlyát, bizonyára nem sok marad belőlem alatta, de igyekeztem nem mutatni, mennyire megijesztett a hirtelen mozdulatával.</p>
+
+<p>– Kitől? – kérdezte.</p>
+
+<p>– Az öreg varázslótól, Maxvelltől – feleltem, mert úgy látszott, pontosan szeretné tudni, kitől származik az üzenet.</p>
+
+<p>– Neve?</p>
+
+<p>Ezen elgondolkodtam, mert az előbb már említettem Maxvell nevét, és nem értettem, miért kérdezi újra.</p>
+
+<p>– Az enyém vagy az övé? – kérdeztem végül, nehogy valamit félreértsek.</p>
+
+<p>– A tiéd.</p>
+
+<p>– Petibone vagyok, a királyi udvar kiemelt hírnöke – feleltem, és büszkén kihúztam magam, mert a megbízatásomat mindig komolyan vettem.</p>
+
+<p>A gólem hosszasan nézett rám, mintha meg akarna győződni róla, hogy valóban az vagyok, akinek mondom magam, aztán lassan felegyenesítette a fejét.</p>
+
+<p>– Mondd.</p>
+
+<p>Végre elérkezett a pillanat, amiért ennyit utaztam, és most már csak át kellett adnom az üzenetet, hogy teljesítsem a megbízásomat. Megköszörültem a torkomat, és megpróbáltam felidézni Maxvell szavait, amelyek a boszorkányok házában még annyira elérhetetlennek tűntek.</p>
+
+<p>Legnagyobb megkönnyebbülésemre most minden szó tisztán ott volt a fejemben, pontosan abban a sorrendben, ahogyan megtanultam őket. Emlékeztem a helyszínre, az időpontra és arra is, hogy a gólemnek mit kell tennie, amikor megérkezik. Már éppen belekezdtem volna, amikor a tekintetem ismét a térdén növő apró, sárga virágra tévedt.</p>
+
+<p>Az álombeli elf lány arca olyan élesen jelent meg előttem, hogy egy pillanatra elakadt a lélegzetem. Újra láttam a vért a ruháján, a mozdulatlan testét a torony előtt, és szinte hallottam azt a halk hangot, amely a barlangot említette.</p>
+
+<p>Tudtam, hogy egy hírnöknek soha nem szabad megváltoztatnia a rábízott üzenetet, különösen akkor nem, ha olyan fontos megbízásról van szó, mint ez. Maxvell külön is figyelmeztetett rá, hogy egyetlen szót sem hagyhatok ki, és semmit sem tehetek hozzá. A királyi udvarban is ezt tanultam, és eddig mindig büszke voltam arra, hogy a legbonyolultabb üzeneteket is hibátlanul kézbesítem.</p>
+
+<p>Most azonban először éreztem úgy, hogy talán nem az a helyes, ha pontosan azt teszem, amire utasítottak.</p>
+
+<p>Ha a gólem a Vakmerőség tornyához megy, ahogyan Maxvell szeretné, talán valóban megtörténik mindaz, amit álmomban láttam. A lány a torony előtt fog feküdni, és mire bárki rátalál, már késő lesz segíteni rajta. Nem tudtam, hogy a gólem jelenléte okozza-e a bajt, vagy csak véletlenül lesz ott, de az álomban olyan hatalmas volt, hogy elzárta az utat a város felé.</p>
+
+<p>A barlang viszont másfelé volt, és ha oda küldöm a gólemet, talán megváltoztathatom azt, amit láttam. Persze az is lehetett, hogy teljesen félreértettem az álmot, és a lány egészen más miatt mondta azt az egyetlen szót, de ezt most nem tudtam kideríteni.</p>
+
+<p>Egy pillanatra arra gondoltam, hogy vissza kellene mennem Maxvellhez, és elmondani neki mindent, de a gólem már előttem állt, és az üzenetre várt. Ráadásul fogalmam sem volt, hogyan tudnék innen olyan gyorsan visszajutni a varázslóhoz, hogy még időben megbeszélhessem vele a dolgot.</p>
+
+<p>Aztán arra gondoltam, hogy a gólemnek tulajdonképpen csak egy meghatározott helyen kell ülnie, és ha a Vakmerőség tornya helyett a barlanghoz küldöm, talán nem is okozok akkora bajt. A Breka-barlang ugyan messzebb van, de ha ezzel egy elf lány életét megmenthetem, akkor vállalnom kell a felelősséget a döntésemért.</p>
+
+<p>Még egyszer a gólemre néztem, aki türelmesen várta, hogy megszólaljak, majd elhatároztam magam.</p>
+
+<p>– A harmadik holdtölte másnapján, a Fekete-tó keleti partján kell lenned, pontosan délben – kezdtem, és igyekeztem ugyanolyan határozottan beszélni, ahogyan Maxvell tanította. – A Breka-barlangnál várnak rád, ülj le elé, és semmiképpen ne állj onnan fel. Őrizd azt a barlangot, mert az ügy rendkívül fontos, és nem tűr halasztást.</p>
+
+<p>A gólem mozdulatlanul hallgatott, és egy pillanatig nem tudtam eldönteni, vajon megértette-e mindazt, amit mondtam. Aztán lassan lehajtotta a fejét, és mély, érdes hangján megszólalt.</p>
+
+<p>– Ennyi?</p>
+
+<p>– Ennyi – bólintottam, miközben igyekeztem nem gondolni arra, hogy az üzenet legfontosabb részét éppen most változtattam meg. – Bár a varázsló külön hangsúlyozta, hogy pontosan kell átadnom, ezért ha szeretné, szívesen elismétlem, hogy biztosan minden szóra emlékezzen.</p>
+
+<p>– Nem szükséges.</p>
+
+<p>– Biztos? Mert én nagyon jól tudok szövegeket megjegyezni, és egyszer még egy egész oldalnyi idegen nyelvű…</p>
+
+<p>– Megjegyeztem.</p>
+
+<p>– Rendben – feleltem kissé sértődötten, mert igazán hagyhatta volna, hogy befejezzem a mondatot.</p>
+
+<p>A gólem lassan felegyenesedett, és hosszú ideig a távolba meredt, mintha máris az előtte álló úton gondolkodna. Aztán megmozdította az egyik lábát, és ahogy a hatalmas kőtömeg súlya áthelyeződött, a föld beleremegett alattam.</p>
+
+<p>– El kell indulnom.</p>
+
+<p>– Máris? – csodálkoztam, mert úgy emlékeztem, a harmadik holdtölte még odébb van, és nem gondoltam volna, hogy ilyen hamar útnak kell indulnia.</p>
+
+<p>– Messze van.</p>
+
+<p>– Mennyire messze? – kérdeztem, mert a Breka-barlang távolságáról csak annyit tudtam, hogy messzebb fekszik, mint a Vakmerőség tornya.</p>
+
+<p>A gólem lenézett rám, és egy kis hallgatás után válaszolt.</p>
+
+<p>– Tizenhét nap járás.</p>
+
+<p>Elképzeltem, ahogy ez a hatalmas kőrakás tizenhét napon át cammog az erdőn keresztül, és közben azon gondolkodtam, vajon mennyi akadály kerülhet az útjába. A fák sűrűn álltak ezen a vidéken, és azon gondolkodtam, hogyan tud majd elhaladni közöttük anélkül, hogy valamelyiket kidöntené.</p>
+
+<p>– Nem szeretnék beleszólni – jegyeztem meg óvatosan –, de talán érdemes lenne az utakat használnia, mert az erdőben elég nehéz lehet közlekedni.</p>
+
+<p>A gólem egy pillanatig hallgatott, majd lassan felém fordította a fejét.</p>
+
+<p>– Az úgy hosszabb lenne.</p>
+
+<p>– Akkor ez valóban kellemetlen – feleltem, mert nem tudtam, mit tanácsolhatnék még neki.</p>
+
+<p>A hatalmas lény tett néhány lépést a fák felé, majd váratlanul megállt, és ismét visszafordult hozzám.</p>
+
+<p>– Köszönöm, Petibone.</p>
+
+<p>Meglepődtem, mert egyáltalán nem számítottam rá, hogy egy kőgólem ilyen udvarias tud lenni. Valahogy azt képzeltem, hogy az ilyen lények csak teljesítik a parancsokat, és nem sokat törődnek azzal, aki az üzenetet hozza nekik.</p>
+
+<p>A köszönete azonban eszembe juttatta, hogy én nem egészen azt mondtam neki, amit kellett volna, és ettől kissé bűntudatom támadt. A Breka-barlang messzebb volt, mint a Vakmerőség tornya, és ezzel nemcsak Maxvell tervét változtattam meg, hanem a gólem útját is meghosszabbítottam.</p>
+
+<p>Már majdnem megbántam, amit tettem, amikor ismét magam előtt láttam az elf lányt a torony előtt, a vérrel átitatott ruhájában és a hajába tűzött sárga virággal. Nem tudtam elviselni a gondolatot, hogy talán megakadályozhattam volna a halálát, de nem tettem semmit.</p>
+
+<p>Reméltem, hogy Maxvell terve nem szenved túlságosan nagy kárt a változtatás miatt, bár fogalmam sem volt, miért olyan fontos, hogy a gólem éppen azon a napon, pontosan délben egy meghatározott helyen üljön.</p>
+
+<p>– Igazán nincs mit – feleltem végül, és igyekeztem úgy tenni, mintha minden a legnagyobb rendben volna. – Ez a munkám.</p>
+
+<p>A gólem ekkor lassan kinyújtotta felém az egyik kezét, amelynek tenyere akkora volt, mint egy kisebb asztal. A tenyerén egy apró, simára csiszolt követ tartott, amely szinte elveszett a hatalmas ujjak között.</p>
+
+<p>– Vidd el.</p>
+
+<p>– Ezt? – kérdeztem, és a kavicsra mutattam, mert nem értettem, miért akarja nekem adni.</p>
+
+<p>– Bizonyíték.</p>
+
+<p>Óvatosan felvettem a követ, és meglepődve tapasztaltam, hogy kellemesen meleg, mintha hosszú ideig a napon feküdt volna. Amikor megfordítottam, egy különös jelet vettem észre rajta, amelyet gondosan a felszínébe véstek. Nem ismertem a jel jelentését, de arra gondoltam, bizonyára a gólemhez tartozik.</p>
+
+<p>– Ó, értem! – mondtam, miközben még egyszer megnéztem a követ. – Ezzel tudom bizonyítani, hogy átadtam az üzenetet.</p>
+
+<p>A gólem lassan bólintott.</p>
+
+<p>– Igen.</p>
+
+<p>Gondosan eltettem a kavicsot a hátizsákomba, mert a királyi udvarban szeretik, ha egy küldetés teljesítéséről bizonyítékot is tudok mutatni. Igaz, eddig többnyire pecsétes leveleket kaptam, és még soha senki nem adott egy követ azért, hogy igazoljam a kézbesítést, de úgy gondoltam, ez is megfelel majd a célnak.</p>
+
+<p>– Akkor további jó utat kívánok! – mondtam, és kissé hátrébb léptem, hogy legyen helye elindulni.</p>
+
+<p>– Neked is.</p>
+
+<p>A gólem megfordult, és lassan elindult az erdő felé. Minden lépésénél megremegett a talaj, és ahogy a fák közé ért, az ágak recsegve hajoltak félre előtte. Egy ideig még láttam a hatalmas vállát a lombok között, aztán lassan eltűnt a szemem elől, bár a lépéseinek tompa dübörgését még sokáig hallottam.</p>
+
+<p>Ott maradtam a tisztás szélén, és azon gondolkodtam, milyen hosszú út áll előtte. Tizenhét napon át kell gyalogolnia, ráadásul olyan vidéken, ahol még rendes utak sincsenek, és fogalmam sem volt, hogyan fogja megtalálni a barlangot.</p>
+
+<p>Nem irigyeltem ezért az utazásért, bár azt el kellett ismernem, hogy egy ilyen hatalmas kőlény bizonyára sokkal könnyebben viseli az erdei gyaloglást, mint én.</p>
+
+<p>Végül megigazítottam a kalapomat, és visszafordultam a patak felé, mert nekem is ideje volt elindulnom. Most már csak vissza kellett jutnom a boszorkányok viskójához, hogy hazaküldjenek, és reméltem, hogy ezúttal a teleportálás közben nem fogok elaludni.</p>
+
+<p>Különösen azt szerettem volna elkerülni, hogy újra álmodjak, mert elegem volt azokból a furcsa álmokból, amelyek után mindig rossz érzéssel ébredtem, és amelyeknek az értelmét soha nem tudtam biztosan megfejteni. Most ráadásul az egyik ilyen álom miatt olyasmit tettem, amit korábban elképzelhetetlennek tartottam volna.</p>
+
+<p>Ha még egyszer arra ébredek, hogy öregasszonyok hajolnak fölém, és azon vitatkoznak, mennyit alszom még, esküszöm, panaszt teszek Maxvellnél, mert egyáltalán nem tetszik, hogy ilyen különös módon kell utaznom a megbízásai miatt.</p>
+
+<p>Már ha egyáltalán lesz bátorságom a szeme elé kerülni.</p>
+
+<p>Ahogy haladtam a fák között, egyre többször eszembe jutott, hogy vajon elmondjam-e neki, mi történt. Biztosan megharagudna rám, ha megtudná, hogy nem pontosan azt az üzenetet adtam át, amelyet olyan gondosan megtanított nekem. Még az is lehet, hogy megbüntetne, vagy soha többé nem bízna rám fontos küldetést.</p>
+
+<p>Már majdnem elértem a patakot, amikor ismét felidéztem a figyelmeztetését, amelyet indulás előtt többször is elismételt.</p>
+
+<p>Egyetlen szót sem változtathatok meg az üzenetben, mert minden részletének jelentősége van, még akkor is, ha én nem értem, miért.</p>
+
+<p>Én pedig nemcsak egy szót változtattam meg, hanem az egész úti célt, larra utasítottam a gólemet, hogy a Vakmerőség tornya helyett a Breka-barlangot őrizze.</p>
+
+<p>Ezt bizonyára nem lesz könnyű megmagyaráznom Maxvellnek, különösen azért, mert még magam sem voltam biztos benne, hogy helyesen értelmeztem az álmot. A varázsló valószínűleg azt fogja kérdezni, miért gondoltam, hogy jobban tudom nála, hová kell küldeni a gólemet, én pedig nem tudnék mást válaszolni, mint hogy egy álomban láttam egy elf lányt, aki azt mondta, hogy a barlang.</p>
+
+<p>Egy ideig azon gondolkodtam, talán jobb lenne, ha egyáltalán nem beszélnék neki a változtatásról, hiszen a gólem átvette az üzenetet, és még bizonyítékot is adott róla. Ha Maxvell nem kérdez rá külön a részletekre, talán soha nem derül ki, hogy nem pontosan azt mondtam el, amit kellett volna.</p>
+
+<p>De aztán eszembe jutott az elf lány, ahogy a torony előtt feküdt a földön, és a hajában ott volt az a kis sárga virág.</p>
+
+<p>Nem tudtam, valóban meg fog-e történni mindaz, amit álmomban láttam, és azt sem, hogy az üzenet megváltoztatásával sikerült-e bármit megakadályoznom. Csak remélni tudtam, hogy a lány életben marad, és egyszer talán megtudom, helyesen döntöttem-e.</p>
+
+<p>Egyelőre azonban nem akartam tovább gondolkodni ezen, mert a boszorkányok viskója még messze volt, és nekem vissza kellett jutnom oda, mielőtt besötétedik.</p>
+
+       
