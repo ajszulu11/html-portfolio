@@ -1114,3 +1114,22 @@ footer a:hover {
     }
 
 }
+
+/* =====================================
+   NOVELLA – ILLUSZTRÁCIÓ
+   ===================================== */
+
+.novella-image {
+    width: 90%;
+    max-width: 1000px;
+    margin: 40px auto 0;
+}
+
+.novella-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(41, 68, 58, 0.12);
+}
+
