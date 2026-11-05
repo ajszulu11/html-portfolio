@@ -1190,3 +1190,33 @@ footer a:hover {
 .scifi-image {
     object-position: center 15%;
 }
+/* ÍRÓI NAPLÓ – KÁRTYÁK TÉRKÖZEI */
+
+.blog-grid .blog-card {
+    padding: 20px;
+    gap: 0;
+}
+
+.blog-grid .blog-card-image {
+    margin-top: 0;
+    margin-bottom: 18px;
+}
+
+.blog-grid .blog-card .date {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.blog-grid .blog-card h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.blog-grid .blog-card p:not(.date) {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.blog-grid .blog-card .button {
+    margin-top: auto;
+}
