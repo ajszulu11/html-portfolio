@@ -1132,4 +1132,53 @@ footer a:hover {
     border-radius: 12px;
     box-shadow: 0 8px 25px rgba(41, 68, 58, 0.12);
 }
+/* ÍRÓI NAPLÓ – KÉT OSZLOPOS ELRENDEZÉS */
+
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px;
+    align-items: stretch;
+}
+
+.blog-grid .blog-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    height: 100%;
+}
+
+.blog-grid .blog-card .button {
+    margin-top: auto;
+    align-self: flex-start;
+}
+
+/* MOBILNÉZET */
+
+@media (max-width: 700px) {
+
+    .blog-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
+/* ÍRÓI NAPLÓ – KÁRTYAKÉPEK */
+
+.blog-card-image {
+    display: block;
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+/* Kisebb képernyőkön */
+
+@media (max-width: 700px) {
+    .blog-card-image {
+        height: 200px;
+    }
+}
 
