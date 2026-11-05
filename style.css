@@ -1181,4 +1181,12 @@ footer a:hover {
         height: 200px;
     }
 }
+/* Petibone képének igazítása */
+.petibone-image {
+    object-position: center 20%;
+}
 
+/* Sci-fi kép igazítása */
+.scifi-image {
+    object-position: center 15%;
+}
