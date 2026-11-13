@@ -1221,11 +1221,13 @@ footer a:hover {
     margin-top: auto;
 }
 
+/* Nagyobb, középre igazított videó */
+
 .novella-video {
-    width: 100%;
-    max-width: 720px;
+    width: 90%;
+    max-width: 850px;
     aspect-ratio: 16 / 9;
-    margin: 30px auto 40px;
+    margin: 0 auto 50px;
 }
 
 .novella-video iframe {
