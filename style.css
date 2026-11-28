@@ -1285,4 +1285,113 @@ footer a:hover {
     text-align: left;
     color: #292B28;
 }
+/* SCI-FI OLDAL – JEL ÉS GONDOLAT (AC) */
+.scifi-ac-page {
+    background: #192d27;
+    color: var(--cream);
+    text-align: center;
+    padding: 70px 6% 80px;
+}
+.scifi-ac-label {
+    color: #b5c5b9;
+    font-size: 12px;
+    letter-spacing: 4px;
+}
+.scifi-ac-signal {
+    position: relative;
+    width: 170px;
+    height: 170px;
+    margin: 25px auto;
+    display: grid;
+    place-items: center;
+}
+.scifi-ac-wave {
+    position: absolute;
+    inset: 0;
+    border: 1px solid #9aafa0;
+    border-radius: 50%;
+    animation: scifi-ac-pulse 4.5s ease-out infinite;
+}
+.scifi-ac-wave:nth-child(2) { animation-delay: -1.5s; }
+.scifi-ac-wave:nth-child(3) { animation-delay: -3s; }
+.scifi-ac-core {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: #d7b092;
+    box-shadow: 0 0 20px #d7b092;
+}
+@keyframes scifi-ac-pulse {
+    from { transform: scale(.08); opacity: .9; }
+    to { transform: scale(1); opacity: 0; }
+}
+.scifi-ac-page h1 {
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-size: clamp(36px, 6vw, 64px);
+    font-weight: 400;
+    color: var(--cream);
+    margin: 15px 0 25px;
+    line-height: 1.2;
+}
+.scifi-ac-cursor {
+    display: inline-block;
+    width: 2px;
+    height: .85em;
+    margin-left: 5px;
+    background: #d7b092;
+    animation: scifi-ac-blink 1.5s step-end infinite;
+}
+@keyframes scifi-ac-blink { 50% { opacity: 0; } }
+.scifi-ac-description {
+    max-width: 650px;
+    margin: 0 auto 20px;
+    color: var(--light-sage);
+    font-size: 18px;
+    line-height: 1.9;
+}
+.scifi-ac-dots {
+    display: flex;
+    justify-content: center;
+    gap: 9px;
+    margin: 30px auto 15px;
+}
+.scifi-ac-dots span {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #d7b092;
+    animation: scifi-ac-fade 2.4s infinite;
+}
+.scifi-ac-dots span:nth-child(2) { animation-delay: .4s; }
+.scifi-ac-dots span:nth-child(3) { animation-delay: .8s; }
+@keyframes scifi-ac-fade {
+    0%, 100% { opacity: .25; }
+    50% { opacity: 1; }
+}
+.scifi-ac-soon {
+    color: #d7b092;
+    font-size: 13px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+.scifi-ac-page .scifi-ac-back {
+    background: transparent;
+    border: 1px solid var(--sage);
+    color: var(--cream);
+    margin-top: 15px;
+}
+.scifi-ac-page .scifi-ac-back:hover {
+    background: var(--cream);
+    color: var(--green);
+}
+@media (max-width: 600px) {
+    .scifi-ac-page { padding: 45px 5% 60px; }
+    .scifi-ac-description { font-size: 16px; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .scifi-ac-wave, .scifi-ac-cursor, .scifi-ac-dots span { animation: none; }
+    .scifi-ac-wave { opacity: .4; }
+    .scifi-ac-wave:nth-child(2) { transform: scale(.65); }
+    .scifi-ac-wave:nth-child(3) { transform: scale(.3); }
+}
 
