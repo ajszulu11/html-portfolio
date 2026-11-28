@@ -498,13 +498,7 @@ p {
     background-color: var(--light-sage);
 }
 
-.blog-grid {
-    display: grid;
 
-    grid-template-columns: repeat(2, 1fr);
-
-    gap: 25px;
-}
 
 .blog-card {
     background-color: var(--cream);
@@ -634,55 +628,9 @@ footer a:hover {
 }
 
 
-/* ---------------------------------------------------------
+
+ /* ---------------------------------------------------------
    16. MOBIL NÉZET
-   --------------------------------------------------------- */
-
-@media (max-width: 500px) {
- .author-logo {
-        width: 60px;
-    }
-
-    .header-brand {
-        gap: 15px;
-    }
-    .header-inner {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    nav ul {
-        flex-wrap: wrap;
-        gap: 15px 22px;
-    }
-
-    section {
-        padding: 65px 0;
-    }
-
-    .hero {
-        min-height: auto;
-        padding: 75px 0;
-    }
-
-    .hero h1 {
-        font-size: 58px;
-    }
-
-    .stories-grid,
-    .blog-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .footer-inner {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-}
-
-
-/* ---------------------------------------------------------
-   17. KISEBB TELEFONOK
    --------------------------------------------------------- */
 
 @media (max-width: 500px) {
@@ -699,6 +647,19 @@ footer a:hover {
         padding: 25px 0 15px;
     }
 
+    .author-logo {
+        width: 60px;
+    }
+
+    .header-brand {
+        gap: 15px;
+    }
+
+    .header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
     .site-title {
         font-size: 34px;
     }
@@ -708,6 +669,7 @@ footer a:hover {
     }
 
     nav ul {
+        flex-wrap: wrap;
         gap: 10px 18px;
     }
 
@@ -715,7 +677,12 @@ footer a:hover {
         font-size: 14px;
     }
 
+    section {
+        padding: 65px 0;
+    }
+
     .hero {
+        min-height: auto;
         padding: 60px 0;
     }
 
@@ -729,6 +696,10 @@ footer a:hover {
 
     h2 {
         font-size: 38px;
+    }
+
+    .stories-grid {
+        grid-template-columns: 1fr;
     }
 
     .story-card,
@@ -748,8 +719,111 @@ footer a:hover {
         font-size: 22px;
         word-break: break-word;
     }
-  
+
+    .footer-inner {
+        flex-direction: column;
+        align-items: flex-start;
+    }
 }
+
+/* ---------------------------------------------------------
+   17. KISEBB TELEFONOK
+   --------------------------------------------------------- */
+
+
+@media (max-width: 500px) {
+
+    body {
+        font-size: 16px;
+    }
+
+    .container {
+        width: 88%;
+    }
+
+    header {
+        padding: 25px 0 15px;
+    }
+
+    .author-logo {
+        width: 60px;
+    }
+
+    .header-brand {
+        gap: 15px;
+    }
+
+    .header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .site-title {
+        font-size: 34px;
+    }
+
+    .site-subtitle {
+        font-size: 12px;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+        gap: 10px 18px;
+    }
+
+    nav a {
+        font-size: 14px;
+    }
+
+    section {
+        padding: 65px 0;
+    }
+
+    .hero {
+        min-height: auto;
+        padding: 60px 0;
+    }
+
+    .hero h1 {
+        font-size: 48px;
+    }
+
+    .hero .lead {
+        font-size: 23px;
+    }
+
+    h2 {
+        font-size: 38px;
+    }
+
+    .stories-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .story-card,
+    .blog-card {
+        padding: 25px;
+    }
+
+    .novel-title {
+        font-size: 48px;
+    }
+
+    .novel-description {
+        font-size: 21px;
+    }
+
+    .contact-email {
+        font-size: 22px;
+        word-break: break-word;
+    }
+
+    .footer-inner {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
 /* =========================
    REGÉNY OLDAL
    ========================= */
@@ -853,19 +927,7 @@ footer a:hover {
     color: var(--graphite);
 }
 
-.button {
-    display: inline-block;
-    margin-top: 20px;
-    padding: 12px 22px;
-    background: var(--green);
-    color: var(--cream);
-    text-decoration: none;
-    transition: 0.3s ease;
-}
-
-.button:hover {
-    background: var(--copper);
-}
+ 
 @media (max-width: 700px) {
 
     .novel-hero {
@@ -888,137 +950,7 @@ footer a:hover {
    ÍRÓI NAPLÓ
    ========================= */
 
-.blog-hero {
-    background: var(--green);
-    color: var(--cream);
-    padding: 90px 8%;
-    text-align: center;
-}
-
-.blog-hero h2 {
-    font-family: "Cormorant Garamond", serif;
-    font-size: 4rem;
-    margin: 10px 0 20px;
-}
-
-.blog-hero p:last-child {
-    max-width: 650px;
-    margin: 0 auto;
-    line-height: 1.8;
-    font-size: 1.1rem;
-}
-
-.blog-section {
-    width: 90%;
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 70px 0;
-}
-
-.blog-card {
-    display: grid;
-    grid-template-columns: 120px 1fr;
-    gap: 35px;
-
-    padding: 35px 0;
-    border-bottom: 1px solid var(--light-sage);
-}
-
-.blog-card:first-child {
-    border-top: 1px solid var(--light-sage);
-}
-
-.blog-card-date {
-    color: var(--copper);
-    font-size: 0.9rem;
-    letter-spacing: 2px;
-    padding-top: 5px;
-}
-
-.blog-card-content {
-    max-width: 750px;
-}
-
-.blog-category {
-    color: var(--sage);
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 0.75rem;
-    margin-bottom: 10px;
-}
-
-.blog-card h3 {
-    font-family: "Cormorant Garamond", serif;
-    color: var(--green);
-    font-size: 2rem;
-    margin: 0 0 15px;
-}
-
-.blog-card-content p {
-    line-height: 1.8;
-}
-
-.blog-link {
-    display: inline-block;
-    margin-top: 10px;
-    color: var(--green);
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.blog-link:hover {
-    color: var(--copper);
-}
-
-.blog-note {
-    background: var(--soft-beige);
-    padding: 80px 8%;
-}
-
-.blog-note h2 {
-    font-family: "Cormorant Garamond", serif;
-    color: var(--green);
-    font-size: 2.5rem;
-    margin: 10px 0 20px;
-}
-
-.blog-note p:last-child {
-    max-width: 750px;
-    line-height: 1.8;
-}
-
-
-/* MOBIL */
-
-@media (max-width: 700px) {
-
-    .blog-hero {
-        padding: 70px 6%;
-    }
-
-    .blog-hero h2 {
-        font-size: 3rem;
-    }
-
-    .blog-section {
-        width: 88%;
-    }
-
-    .blog-card {
-        grid-template-columns: 1fr;
-        gap: 10px;
-        padding: 30px 0;
-    }
-
-    .blog-card-date {
-        padding-top: 0;
-    }
-
-    .blog-card h3 {
-        font-size: 1.7rem;
-    }
-
-}
+/* ez a rész törölve
 /* =========================================================
    BLOGNOVELLA OLDAL
    ========================================================= */
@@ -1146,6 +1078,8 @@ footer a:hover {
     flex-direction: column;
     min-width: 0;
     height: 100%;
+    padding: 20px;
+    gap: 0;
 }
 
 .blog-grid .blog-card .button {
@@ -1192,10 +1126,7 @@ footer a:hover {
 }
 /* ÍRÓI NAPLÓ – KÁRTYÁK TÉRKÖZEI */
 
-.blog-grid .blog-card {
-    padding: 20px;
-    gap: 0;
-}
+
 
 .blog-grid .blog-card-image {
     margin-top: 0;
@@ -1217,9 +1148,6 @@ footer a:hover {
     margin-bottom: 20px;
 }
 
-.blog-grid .blog-card .button {
-    margin-top: auto;
-}
 
 /* Nagyobb, középre igazított videó */
 
@@ -1237,7 +1165,6 @@ footer a:hover {
     border: none;
     border-radius: 8px;
 }
-
 /* PETIBONE – TARTALOMJEGYZÉK */
 
 .petibone-page {
@@ -1249,7 +1176,11 @@ footer a:hover {
 
 .petibone-intro {
     text-align: center;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
+    padding: 0;
+}
+.petibone-toc {
+    padding: 0;
 }
 
 .petibone-intro h1 {
@@ -1346,4 +1277,11 @@ footer a:hover {
 .story-navigation a:hover {
     color: #A56F4F;
 }
-
+.petibone-description {
+    max-width: 700px;
+    margin: 30px auto 0;
+    font-size: 17px;
+    line-height: 1.9;
+    text-align: left;
+    color: #292B28;
+}
